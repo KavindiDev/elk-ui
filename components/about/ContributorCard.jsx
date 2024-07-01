@@ -3,7 +3,7 @@ import { FaGithub, FaTwitter } from "react-icons/fa";
 
 export default function ContributorCard({ name, role, description, image, githubLink, twitterLink}) {
     return (
-        <div className="bg-white dark:bg-gray-900 p-8 rounded-lg shadow-lg hover:shadow-xl transition-shadow w-full md:w-1/3 lg:w-1/4">
+        <div className="bg-gray-100 dark:bg-gray-900 p-8 rounded-lg shadow-lg hover:shadow-xl transition-shadow w-full md:w-1/3 lg:w-1/4">
             <img
                 src={image}
                 alt={name}

@@ -36,7 +36,7 @@ const components = [
 
 export default function FeaturedComponents() {
   return (
-    <section className="w-full py-12 md:py-24 lg:py-24">
+    <section className="w-full py-12 md:py-24 lg:py-24 rounded-lg bg-gray-100 dark:bg-gray-800">
       <div className="container space-y-12 px-4 md:px-6">
         <div className="flex flex-col items-center justify-center space-y-4 text-center">
           <div className="space-y-2">
@@ -46,12 +46,12 @@ export default function FeaturedComponents() {
             </p>
           </div>
         </div>
-        <div className="mx-auto grid items-start gap-8 sm:max-w-4xl sm:grid-cols-2 md:gap-12 lg:max-w-5xl lg:grid-cols-3">
+        <div className="mx-auto grid items-start gap-8 auto-rows-max sm:max-w-4xl sm:grid-cols-2 md:gap-12 lg:max-w-5xl lg:grid-cols-3">
           {
             components.map(function({title, description, href}){
               return (
                 <Link
-                className="group grid gap-1 rounded-lg bg-white p-6 shadow-sm transition-all hover:bg-gray-50 dark:bg-gray-950 dark:hover:bg-gray-900"
+                className="group grid gap-1 rounded-lg bg-gray-200 p-6 shadow-sm transition-all hover:bg-gray-300 dark:bg-gray-900 dark:hover:bg-gray-950 min-h-32 md:min-h-36 lg:min-h-40"
                 href={href}
               >
                 <div className="flex items-center justify-between">
