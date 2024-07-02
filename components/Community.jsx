@@ -15,7 +15,7 @@ export default function Community() {
                 <div className="flex space-x-4 mx-auto">
                     <Button asChild>
                         <Link
-                            href="https://github.com/KavindiDev/next-demo"
+                            href="https://github.com/KavindiDev/elk-ui"
                         >
                             <Github className="h-5 w-5 mr-2" />
                             Contribute on GitHub

@@ -2,7 +2,7 @@
 
 Welcome to **Elk/ui**, a modern, open-source Tailwind UI component library designed to simplify web development. With **Elk/ui**, you can build stunning web applications with ease, thanks to our beautifully designed, accessible, and customizable components.
 <p align="center">
-  <img src="https://github.com/KavindiDev/next-demo/blob/main/app/opengraph-image.jpg" alt="Elk/ui" width="500" />
+  <img src="https://github.com/KavindiDev/elk-ui/blob/main/app/opengraph-image.jpg" alt="Elk/ui" width="500" />
 </p>
 
 
@@ -50,28 +50,28 @@ To learn more about **Elk/ui** and how to use the components, check out the foll
 
 We welcome contributions from everyone. Whether you're a seasoned developer or just getting started, there are many ways to contribute to **Elk/ui**:
 
-1. **Bug Reports and Feature Requests**: If you encounter a bug or have a feature request, please create an [issue on GitHub](https://github.com/kavindidev/elkui/issues).
+1. **Bug Reports and Feature Requests**: If you encounter a bug or have a feature request, please create an [issue on GitHub](https://github.com/KavindiDev/elk-ui/issues).
 
 2. **Submitting Pull Requests**: We love pull requests! If you'd like to contribute code, please follow these steps:
     - Fork the repository.
     - Create a new branch (`git checkout -b feature/your-feature-name`).
     - Make your changes and commit them (`git commit -m 'Add some feature'`).
     - Push your changes to your fork (`git push origin feature/your-feature-name`).
-    - Create a pull request on the [main repository](https://github.com/kavindidev/elkui/pulls).
+    - Create a pull request on the [main repository](https://github.com/KavindiDev/elk-ui/pulls).
 
-3. **Writing Documentation**: Good documentation helps everyone. If you see something that needs improving, feel free to edit or add to our [documentation](https://github.com/kavindidev/elkui/wiki).
+3. **Writing Documentation**: Good documentation helps everyone. If you see something that needs improving, feel free to edit or add to our [documentation](https://github.com/KavindiDev/elk-ui/wiki).
 
 4. **Designing Components**: If you have design skills, consider contributing to our component library. All contributions are welcome, from simple style tweaks to entire new components.
 
 ### Community Guidelines
 
-To maintain a welcoming and inclusive community, please adhere to our [Code of Conduct](https://github.com/kavindidev/elkui/blob/main/CODE_OF_CONDUCT.md). Respect all community members and foster an environment of collaboration and mutual respect.
+To maintain a welcoming and inclusive community, please adhere to our [Code of Conduct](https://github.com/KavindiDev/elk-ui/blob/main/CODE_OF_CONDUCT.md). Respect all community members and foster an environment of collaboration and mutual respect.
 
 ## Join Our Community
 
 Stay up to date with the latest developments, discuss new features, or get help with your projects by joining our community:
 
-- **GitHub Discussions**: Engage with us on [GitHub Discussions](https://github.com/kavindidev/elkui/discussions).
+- **GitHub Discussions**: Engage with us on [GitHub Discussions](https://github.com/KavindiDev/elk-ui/discussions).
 - **Twitter**: Follow us on [Twitter](https://twitter.com/ElkUI) for updates.
 - **Discord**: Join our [Discord server](https://discord.gg/elkui) to chat with the team and other users.
 
@@ -81,7 +81,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 ## Feedback
 
-**Elk/ui** is proudly created by Dewmini Thakshila. For feedback and contributions, please visit our [GitHub repository](https://github.com/kavindidev/elkui).
+**Elk/ui** is proudly created by Dewmini Thakshila. For feedback and contributions, please visit our [GitHub repository](https://github.com/KavindiDev/elk-ui).
 
 ---
 
