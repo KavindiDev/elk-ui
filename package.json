@@ -1,7 +1,14 @@
 {
-  "name": "next-demo",
+  "name": "elk-ui",
   "version": "0.1.0",
-  "private": true,
+  "description": "Elk/ui is a collection of Tailwind React components that are designed to be simple, easy to use, and flexible.",
+  "author": "Dewmini Thakshila",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KavindiDev/elk-ui.git"
+  },
+  "homepage": "https://ashy-dune-0b4028910.5.azurestaticapps.net",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
